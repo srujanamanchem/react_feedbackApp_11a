@@ -37,7 +37,7 @@ class Feedback extends Component {
     )
   }
 
-  renderThankYouScreen = () => {
+  renderThankyouScreen = () => {
     const {resources} = this.props
     const {loveEmojiUrl} = resources
 
